@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1023133251065",
+    "project_id": "lec6-5885f",
+    "storage_bucket": "lec6-5885f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023133251065:android:fc1c9c6e8f3e44456b3928",
+        "android_client_info": {
+          "package_name": "com.example.video_streming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023133251065-bamn418pju7i3mjtma9cmdbtu2ph6np3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKJTiGSHeP6Blp-3l4l5cauOvfVOtqoTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023133251065-bamn418pju7i3mjtma9cmdbtu2ph6np3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
